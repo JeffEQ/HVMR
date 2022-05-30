@@ -1,1 +1,1 @@
-# HVMR
+The purpose of High Volume Music Radio (HVMR) is to provide the most eclectic mix of music anywhere on the internet! A True radio station strictly for Music Lovers! The site is designed to allow for listeners to listen to the station live, download the app, and communicate through a contact form. HVMR has grown to having 3000 daily listeners from around the world hosted by various DJs. 
